@@ -1,0 +1,8 @@
+.container{
+    border: solid 1px purple;
+    padding: 20px;
+    width: 50%;
+    margin: 5%;
+}.inner-container{
+    border: dotted red 2px;
+}
